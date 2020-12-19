@@ -1,4 +1,6 @@
-# Amazon Kinesis Data Visualization Sample Application
+# CSYE7245 Amazon Kinesis Data Visualization Sample Application
+
+![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 The **Amazon Kinesis Data Visualization Sample Application** demonstrates how to interact with [Amazon Kinesis][kinesis] to generate meaningful statistics from a stream of data and visualize those results in real time. 
 
